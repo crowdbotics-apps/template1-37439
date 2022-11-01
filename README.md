@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-social-feed](screens/social-feed)
 - [react-native-user-profile](modules/user-profile)
 - [screen-login](screens/login)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
