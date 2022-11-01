@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-account-settings](screens/account-settings)
 - [screen-social-feed](screens/social-feed)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
